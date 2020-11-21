@@ -11,6 +11,6 @@
 
 ## Components
 * [sweetAlert2](https://sweetalert2.github.io/): Adds popups
-* [react slick](https://drive.google.com/file/d/1ygGgPrW3mh6FR_g7KowViJI6SxmMWSxe/view?usp=sharing): adds carousels
+* [react slick](https://react-slick.neostack.com/): adds carousels
 
 ## Unassigned
