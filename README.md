@@ -5,6 +5,7 @@
 - [Social](#social)
 - [Components](#components)
 - [Ecommerce](#ecommerce)
+- [Server](#server)
 - [Unassigned](#unassigned)
 
 ## Social
@@ -13,9 +14,15 @@
 ## Components
 * [sweetAlert2](https://sweetalert2.github.io/): Adds popups
 * [react slick](https://react-slick.neostack.com/): adds carousels
+* [Howler](https://howlerjs.com/): Adds audio
+* [Three.js](https://threejs.org/): Adds 3D rendering
 
 ## Ecommerce
 * [paystack](https://paystack.com/docs/): African payement service
 * [Stripe](https://stripe.com/docs/api): Eu/american payement service
 
+## Server
+* [nginx](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896): instructions for setting up nginx
+
 ## Unassigned
+
