@@ -23,10 +23,12 @@
 * [Stripe](https://stripe.com/docs/api): Eu/american payement service
 
 ## Server
-* [nginx](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896): instructions for setting up nginx
+* [nginx](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896): Instructions for setting up nginx
 
 ## Ecommerce
-* [3djs](https://d3js.org/): manipulate DOM using data
+* [D3.js](https://d3js.org/): Manipulate DOM using data
+* [plotly](https://plotly.com/): Frontend analytics
+* [chart.js](https://www.chartjs.org/): Opensource HTML Charts
 
 ## Unassigned
 
