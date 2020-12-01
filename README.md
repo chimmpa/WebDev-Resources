@@ -6,6 +6,7 @@
 - [Components](#components)
 - [Ecommerce](#ecommerce)
 - [Server](#server)
+- [Data](#data)
 - [Unassigned](#unassigned)
 
 ## Social
@@ -23,6 +24,9 @@
 
 ## Server
 * [nginx](https://gist.github.com/bradtraversy/cd90d1ed3c462fe3bddd11bf8953a896): instructions for setting up nginx
+
+## Ecommerce
+* [3djs](https://d3js.org/): manipulate DOM using data
 
 ## Unassigned
 
