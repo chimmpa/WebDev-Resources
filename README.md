@@ -7,6 +7,7 @@
 - [Ecommerce](#ecommerce)
 - [Server](#server)
 - [Data](#data)
+- [npm](#npm)
 - [Unassigned](#unassigned)
 
 ## Social
@@ -29,6 +30,9 @@
 * [D3.js](https://d3js.org/): Manipulate DOM using data
 * [plotly](https://plotly.com/): Frontend analytics
 * [chart.js](https://www.chartjs.org/): Opensource HTML Charts
+
+## npm
+* [nginx]: npm install --save @material-ui/core @material-ui/icons bootstrap chartist css-loader node-sass nouislider-react react-beautiful-dnd react-bootstrap react-bootstrap-table-next react-router-dom slick-carousel
 
 ## Unassigned
 
