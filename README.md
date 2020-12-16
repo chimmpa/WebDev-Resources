@@ -16,6 +16,7 @@
 ## Components
 * [sweetAlert2](https://sweetalert2.github.io/): Adds popups
 * [react slick](https://react-slick.neostack.com/): adds carousels
+* [react parallax](https://www.npmjs.com/package/react-scroll-parallax): Adds parallax scrolling
 * [Howler](https://howlerjs.com/): Adds audio
 * [Three.js](https://threejs.org/): Adds 3D rendering
 
