@@ -19,6 +19,7 @@
 * [react parallax](https://www.npmjs.com/package/react-scroll-parallax): Adds parallax scrolling
 * [Howler](https://howlerjs.com/): Adds audio
 * [Three.js](https://threejs.org/): Adds 3D rendering
+* [Animate.css](https://animate.style/): Adds css animaions
 
 ## Ecommerce
 * [paystack](https://paystack.com/docs/): African payement service
