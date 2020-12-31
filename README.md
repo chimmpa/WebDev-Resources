@@ -12,6 +12,7 @@
 
 ## Social
 * [Crisp](https://github.com/crisp-im?language=javascript): Online chat service
+* [i18next](https://www.i18next.com/): Localistion software
 
 ## Components
 * [sweetAlert2](https://sweetalert2.github.io/): Adds popups
